@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ball()
+comment1.text=\r\n\ This\ makes\ it\ show\ the\ ball\ ont\ he\ window\ \r\n\ and\ also\ makes\ it\ so\ the\ ball\ can\ turn.\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ being\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ being\ returned\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ This\ makes\ it\ so\ when\ the\ ball\r\n\ hits\ the\ side\ of\ the\ screen\r\n\ that\ player\ will\ get\ a\ point\ and\ \r\n\ the\ ball\ will\ reset.\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \r\n\ @param\ there\ are\ no\ parameters\ \ \ \ \ \r\n\ @return\ nothing\ is\ being\ returned\ \ \r\n
+comment4.params=v
+comment4.target=void\ setVelocity(int)
+comment4.text=\r\n\ This\ makes\ it\ so\ the\ variable\ velocity\r\n\ is\ initialized\ to\ v.\r\n\ \r\n\ \r\n\ @param\ there\ is\ a\ parameter\ called\ v\r\n\ @return\ nothing\ is\ being\ returned\r\n
+numComments=5
